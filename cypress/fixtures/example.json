@@ -1,0 +1,6 @@
+{
+  "firstName": "TestName",
+  "surname" : "TestSurname",
+  "validEmail": "dharanitools@gmail.com",
+  "invalidEmail": "dharanitools@"
+}
